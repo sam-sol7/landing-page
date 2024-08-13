@@ -101,3 +101,21 @@ body {
     text-align: center;
     color: #1F2937;
 }
+
+.quote-section {
+    background-color: #E5E7EB;
+}
+
+.quote-container {
+    padding: 100px 300px;
+}
+
+.main-quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 250;
+}
+
+.main-quote-author {
+    text-align: right;
+}
