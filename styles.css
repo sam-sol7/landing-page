@@ -151,3 +151,15 @@ body {
     border: 2px solid #F9FAF8;
     border-radius: 7px;
 }
+
+.main-footer {
+    background-color: #1F2937;
+}
+
+.footer-text {
+    margin: 0px;
+    padding: 50px;
+    text-align: center;
+    font-weight: 500;
+    color: #E5E7EB;
+}
